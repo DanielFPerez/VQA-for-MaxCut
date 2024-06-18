@@ -67,3 +67,5 @@ Optimal parameters for graph 33: [2.62569522 2.90098811 1.28969741 1.87103822 1.
 Optimizing QAOA for graph 34/100 with depth 3 using non-gradient optimizer
 Optimal parameters for graph 34: [1.70482305 2.00718798 2.38804178 0.72661275 2.278121   2.83215589]
 Optimizing QAOA for graph 35/100 with depth 3 using non-gradient optimizer
+Optimal parameters for graph 35: [3.2274372  0.0783304  1.3036161  0.21218049 0.99910568 2.44402218]
+Optimizing QAOA for graph 36/100 with depth 3 using non-gradient optimizer
