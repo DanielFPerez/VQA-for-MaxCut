@@ -77,3 +77,125 @@ Optimal parameters for graph 38: [2.88041956 0.21030914]
 Optimizing QAOA for graph 39/100 with depth 1 using non-gradient optimizer
 Optimal parameters for graph 39: [0.51497979 1.80106887]
 Optimizing QAOA for graph 40/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 40: [2.86397077 1.25155187]
+Optimizing QAOA for graph 41/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 41: [1.21493591 3.27846669]
+Optimizing QAOA for graph 42/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 42: [3.15204497 2.20818256]
+Optimizing QAOA for graph 43/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 43: [2.86486453 3.20756843]
+Optimizing QAOA for graph 44/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 44: [0.86130777 0.06605034]
+Optimizing QAOA for graph 45/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 45: [1.84466061 0.26218953]
+Optimizing QAOA for graph 46/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 46: [1.84299283 0.07412479]
+Optimizing QAOA for graph 47/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 47: [1.18315581 2.74372421]
+Optimizing QAOA for graph 48/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 48: [1.82430376 2.21754664]
+Optimizing QAOA for graph 49/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 49: [2.14699735 1.80190612]
+Optimizing QAOA for graph 50/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 50: [2.85108557 2.22187391]
+Optimizing QAOA for graph 51/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 51: [0.02708791 2.76324922]
+Optimizing QAOA for graph 52/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 52: [3.01302668 0.47710848]
+Optimizing QAOA for graph 53/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 53: [2.09138995 0.74834566]
+Optimizing QAOA for graph 54/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 54: [0.71874116 2.67766287]
+Optimizing QAOA for graph 55/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 55: [2.74859383 3.28904333]
+Optimizing QAOA for graph 56/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 56: [2.15832099 1.77915965]
+Optimizing QAOA for graph 57/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 57: [1.82713063 1.22758065]
+Optimizing QAOA for graph 58/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 58: [1.12690218 2.20476932]
+Optimizing QAOA for graph 59/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 59: [1.61410853 0.37726691]
+Optimizing QAOA for graph 60/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 60: [1.12791209 2.1964572 ]
+Optimizing QAOA for graph 61/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 61: [0.56721137 0.47423475]
+Optimizing QAOA for graph 62/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 62: [0.69226964 2.42352036]
+Optimizing QAOA for graph 63/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 63: [1.19281482 2.67898389]
+Optimizing QAOA for graph 64/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 64: [1.86978094 1.19255819]
+Optimizing QAOA for graph 65/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 65: [0.02894064 0.56651646]
+Optimizing QAOA for graph 66/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 66: [0.1290568  2.79818639]
+Optimizing QAOA for graph 67/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 67: [2.16489202 2.77222577]
+Optimizing QAOA for graph 68/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 68: [2.12828728 1.79749652]
+Optimizing QAOA for graph 69/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 69: [3.21789138 0.16367231]
+Optimizing QAOA for graph 70/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 70: [3.13265806 0.0619625 ]
+Optimizing QAOA for graph 71/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 71: [2.14806516 2.78447569]
+Optimizing QAOA for graph 72/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 72: [1.10742747 0.22108207]
+Optimizing QAOA for graph 73/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 73: [1.12160001 1.24676836]
+Optimizing QAOA for graph 74/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 74: [1.41644715 2.74460329]
+Optimizing QAOA for graph 75/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 75: [0.10076253 0.77246945]
+Optimizing QAOA for graph 76/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 76: [1.8473162  2.23429763]
+Optimizing QAOA for graph 77/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 77: [0.8395087  0.02547416]
+Optimizing QAOA for graph 78/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 78: [0.11789504 2.81973592]
+Optimizing QAOA for graph 79/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 79: [1.05741716 1.76421867]
+Optimizing QAOA for graph 80/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 80: [3.04386131 1.03854072]
+Optimizing QAOA for graph 81/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 81: [1.16064704 0.48202952]
+Optimizing QAOA for graph 82/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 82: [0.87802661 0.71536382]
+Optimizing QAOA for graph 83/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 83: [2.1332243  2.76894252]
+Optimizing QAOA for graph 84/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 84: [2.86821854 0.42695661]
+Optimizing QAOA for graph 85/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 85: [1.14149376 0.80218431]
+Optimizing QAOA for graph 86/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 86: [0.81380261 2.7351261 ]
+Optimizing QAOA for graph 87/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 87: [2.87870312 0.69711823]
+Optimizing QAOA for graph 88/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 88: [1.84151962 0.10098046]
+Optimizing QAOA for graph 89/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 89: [0.14928008 0.81458274]
+Optimizing QAOA for graph 90/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 90: [0.84407638 0.69437435]
+Optimizing QAOA for graph 91/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 91: [3.19956413 0.15691448]
+Optimizing QAOA for graph 92/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 92: [0.25925596 1.78882384]
+Optimizing QAOA for graph 93/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 93: [3.11736747 1.70936503]
+Optimizing QAOA for graph 94/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 94: [2.84278691 0.28565702]
+Optimizing QAOA for graph 95/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 95: [2.00108864 2.49877121]
+Optimizing QAOA for graph 96/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 96: [0.95528016 0.45802273]
+Optimizing QAOA for graph 97/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 97: [0.19014996 1.79604957]
+Optimizing QAOA for graph 98/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 98: [2.16396535 1.77967911]
+Optimizing QAOA for graph 99/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 99: [0.28222215 1.82669431]
+Optimizing QAOA for graph 100/100 with depth 1 using non-gradient optimizer
+Optimal parameters for graph 100: [0.69403835 0.4851927 ]
+Data saved to ./results/non-grad_p1_10nodes.pkl.
