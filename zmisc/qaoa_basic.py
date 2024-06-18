@@ -1,7 +1,7 @@
 import cirq
 import numpy as np
 import scipy.optimize
-from utils import *
+from src.utils import load_pickle
 
 # read random graphs from path
 src_dir = "./data/graphs-10nodes_100elems.pkl"

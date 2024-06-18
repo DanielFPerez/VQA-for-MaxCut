@@ -1,6 +1,6 @@
 import pickle
 import networkx as nx
-from typing import List
+from typing import List, Dict
 
 
 def load_pickle(src_dir: str) -> object:
@@ -25,3 +25,10 @@ def generate_random_graphs(num_graphs: int, num_nodes: int, edge_prob: float = 0
 
 def show_graph(graph: nx.Graph, font: str = 'white', node_size: int = 600):
     return nx.draw(graph,pos=graph.nodes(data='pos'), with_labels=True, font_color=font, node_size=node_size)
+
+
+
+def get_case(data: Dict, index: int):
+    if index < 0 or index >= len(data['graphs']):
+        raise IndexError("Index out of bounds")
+    return data['graphs'][index], data['optimized_parameters'][index]
