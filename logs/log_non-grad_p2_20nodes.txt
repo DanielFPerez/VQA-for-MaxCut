@@ -185,3 +185,17 @@ Optimal parameters for graph 92: [2.68574782 2.28816256 0.10587137 0.92692472]
 Optimizing QAOA for graph 93/100 with depth 2 using non-gradient optimizer
 Optimal parameters for graph 93: [1.48960339 0.26040605 2.34534868 1.90937845]
 Optimizing QAOA for graph 94/100 with depth 2 using non-gradient optimizer
+Optimal parameters for graph 94: [1.38552638 0.82448755 0.83316943 0.0257093 ]
+Optimizing QAOA for graph 95/100 with depth 2 using non-gradient optimizer
+Optimal parameters for graph 95: [0.33518528 2.14187827 2.75791669 0.02639427]
+Optimizing QAOA for graph 96/100 with depth 2 using non-gradient optimizer
+Optimal parameters for graph 96: [0.94746689 1.92140061 2.24269218 1.4004349 ]
+Optimizing QAOA for graph 97/100 with depth 2 using non-gradient optimizer
+Optimal parameters for graph 97: [3.06663916 2.53355521 2.25606505 2.48975523]
+Optimizing QAOA for graph 98/100 with depth 2 using non-gradient optimizer
+Optimal parameters for graph 98: [1.04417848 1.5013982  1.13501412 0.42018021]
+Optimizing QAOA for graph 99/100 with depth 2 using non-gradient optimizer
+Optimal parameters for graph 99: [1.90836572 2.21890143 2.14450422 1.89615611]
+Optimizing QAOA for graph 100/100 with depth 2 using non-gradient optimizer
+Optimal parameters for graph 100: [1.8825812  0.58493542 0.56475276 0.46649664]
+Data saved to ./results/non-grad_p2_20nodes.pkl.

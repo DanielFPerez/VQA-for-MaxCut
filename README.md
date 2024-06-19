@@ -1,6 +1,6 @@
 # Variational Quanutm Circuits for MaxCut Problem
 
-This repository implements the QAOA algorithm for solving the MaxCut problem on Erdos-Renyi random graphs.
+This repository implements the QAOA algorithm for solving the MaxCut problem on Erdős-Rényi random graphs.
 
 
 ## Installation
@@ -39,7 +39,7 @@ $ pip install -r ./quantum_requirements.txt
 
 - `data`: path where the random graphs are saved. Each file here is a pickled object of Python list containing the graphs.
 - `logs`: text log files.
-- `results`: here the results from quantum circuit optimizations are saved (output of running `main_qaoa.py`). The structure of the pyckled object is a dictionary with following keys:
+- `results`: here the results from quantum circuit optimizations are saved (output of running `main_qaoa.py`). The structure of the pickled object is a dictionary with following keys:
     - `p`: QAOA circuit depth.
     - `optimizer`: string, either "gradient" (BFGS) or "non-gradient" (Nelder-Mead).
     - `graphs`: list of graphs.
