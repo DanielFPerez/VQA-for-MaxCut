@@ -3,6 +3,7 @@ import cirq
 import numpy as np
 import networkx as nx
 import scipy.optimize
+import time
 
 
 from src.utils import *
@@ -77,9 +78,12 @@ def main(graph_file, optimizer, depth, out_path):
     
     for i, graph in enumerate(graphs):
         print(f"Optimizing QAOA for graph {i + 1}/{len(graphs)} with depth {depth} using {optimizer} optimizer", flush=True)
+        t_start = time.time()
         optimal_params = optimize_qaoa(graph, depth, optimizer)
         optimized_parameters.append(optimal_params)
+        t_end = time.time() - t_start
         print(f"Optimal parameters for graph {i + 1}: {optimal_params}", flush=True)
+        print(f"Time taken: {t_end:.2f} seconds", flush=True)
     
 
     result_data = {
@@ -89,7 +93,8 @@ def main(graph_file, optimizer, depth, out_path):
         'optimizer': optimizer
     }
     
-    save_pickle(result_data, out_path)
+    if out_path:
+        save_pickle(result_data, out_path)
 
 if __name__ == '__main__':
     main()
