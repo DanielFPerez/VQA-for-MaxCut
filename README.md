@@ -1,4 +1,4 @@
-# Variational Quanutm Circuits for MaxCut Problem
+# Variational Quantum Circuits for MaxCut Problem
 
 This repository implements the QAOA algorithm for solving the MaxCut problem on Erdős-Rényi random graphs.
 
